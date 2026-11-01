@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: africa-top5-ranking
+expected_outcome: |
+  show.json for a ranking of Algeria, DR Congo, Sudan, Libya and Chad with sourced official areas, a plan that counts down to Algeria as no. 1, and one checked still per country; no full render.

@@ -1,0 +1,10 @@
+{
+  "title": ["동남아시아에서", "가장 큰 나라 {TOP5}"],
+  "entries": [
+    {"name": "인도네시아", "geom": {"iso": ["IDN"]}, "value": "auto", "flag": {"cdn": "id"}},
+    {"name": "미얀마", "geom": {"iso": ["MMR"]}, "value": "auto", "flag": {"cdn": "mm"}},
+    {"name": "태국", "geom": {"iso": ["THA"]}, "value": "auto", "flag": {"cdn": "th"}},
+    {"name": "베트남", "geom": {"iso": ["VNM"]}, "value": "auto", "flag": {"cdn": "vn", "scale": 0.45}},
+    {"name": "말레이시아", "geom": {"iso": ["MYS"]}, "value": "auto", "flag": {"cdn": "my"}}
+  ]
+}

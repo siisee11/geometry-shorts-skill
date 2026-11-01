@@ -1,0 +1,7 @@
+numpy
+scipy
+pillow
+shapely>=2
+pyproj
+pyshp
+imageio-ffmpeg

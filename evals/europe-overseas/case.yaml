@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: europe-overseas
+expected_outcome: |
+  A ranking of Ukraine, France, Spain and Sweden where France and Spain show only their European territory (overseas territories and the Canaries clipped), areas are sourced figures for those territories, and stills show each country well framed; no full render.

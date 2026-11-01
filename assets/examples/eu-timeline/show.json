@@ -1,0 +1,26 @@
+{
+  "format": "timeline",
+  "title": ["유럽연합은", "어떻게 {커졌을까}"],
+  "period": 2.4,
+  "entries": [
+    {"name": "EU 15개국", "year": 1995, "flag_box": "main", "flag": {"cdn": "eu"},
+     "geom": [{"iso": ["BEL", "LUX", "NLD", "DEU", "ITA", "DNK", "IRL", "GBR", "GRC", "PRT", "AUT", "FIN", "SWE"]},
+              {"iso": ["FRA"], "clip": [-6, 41, 10, 52]}, {"iso": ["ESP"], "clip": [-10, 35, 5, 44.5]}]},
+    {"name": "EU 25개국", "year": 2004, "flag_box": "main", "flag": {"cdn": "eu"},
+     "geom": [{"iso": ["BEL", "LUX", "NLD", "DEU", "ITA", "DNK", "IRL", "GBR", "GRC", "PRT", "AUT", "FIN", "SWE",
+                       "CYP", "CZE", "EST", "HUN", "LVA", "LTU", "MLT", "POL", "SVK", "SVN"]},
+              {"iso": ["FRA"], "clip": [-6, 41, 10, 52]}, {"iso": ["ESP"], "clip": [-10, 35, 5, 44.5]}]},
+    {"name": "EU 27개국", "year": 2007, "flag_box": "main", "flag": {"cdn": "eu"},
+     "geom": [{"iso": ["BEL", "LUX", "NLD", "DEU", "ITA", "DNK", "IRL", "GBR", "GRC", "PRT", "AUT", "FIN", "SWE",
+                       "CYP", "CZE", "EST", "HUN", "LVA", "LTU", "MLT", "POL", "SVK", "SVN", "BGR", "ROU"]},
+              {"iso": ["FRA"], "clip": [-6, 41, 10, 52]}, {"iso": ["ESP"], "clip": [-10, 35, 5, 44.5]}]},
+    {"name": "EU 28개국", "year": 2013, "flag_box": "main", "flag": {"cdn": "eu"},
+     "geom": [{"iso": ["BEL", "LUX", "NLD", "DEU", "ITA", "DNK", "IRL", "GBR", "GRC", "PRT", "AUT", "FIN", "SWE",
+                       "CYP", "CZE", "EST", "HUN", "LVA", "LTU", "MLT", "POL", "SVK", "SVN", "BGR", "ROU", "HRV"]},
+              {"iso": ["FRA"], "clip": [-6, 41, 10, 52]}, {"iso": ["ESP"], "clip": [-10, 35, 5, 44.5]}]},
+    {"name": "영국 탈퇴", "year": 2020, "flag_box": "main", "flag": {"cdn": "eu"},
+     "geom": [{"iso": ["BEL", "LUX", "NLD", "DEU", "ITA", "DNK", "IRL", "GRC", "PRT", "AUT", "FIN", "SWE",
+                       "CYP", "CZE", "EST", "HUN", "LVA", "LTU", "MLT", "POL", "SVK", "SVN", "BGR", "ROU", "HRV"]},
+              {"iso": ["FRA"], "clip": [-6, 41, 10, 52]}, {"iso": ["ESP"], "clip": [-10, 35, 5, 44.5]}]}
+  ]
+}

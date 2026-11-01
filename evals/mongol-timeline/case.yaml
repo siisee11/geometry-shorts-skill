@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: mongol-timeline
+expected_outcome: |
+  A timeline show.json with 4-5 dated stages of the Mongol Empire from 1206 to about 1279, territories drawn as claim polygons that grow over time, stills for each stage, and a note that the borders are approximate; no full render.
